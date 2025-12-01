@@ -25,7 +25,7 @@ LinkedIn:
 
 <table style="width:100%;">
   <tr>
-    <td style="vertical-align:top; width:50%; padding-right:20px;">
+    <td style="vertical-align:top; width:100%; padding-right:20px;">
       <b>Skills</b><br><br>
       <b>Programming Languages</b><br>
       - Python<br>
