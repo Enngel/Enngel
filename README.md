@@ -46,13 +46,13 @@ LinkedIn:
 ## GitHub Overview & Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="350" /> 
-  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" width="350" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="350" /> 
-  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" width="350" />
+  <!-- Overview images -->
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="300" /> 
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" width="300" />  
+  &nbsp;&nbsp;&nbsp; <!-- small space between columns -->
+  <!-- Languages images -->
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="300" /> 
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" width="300" />
 </p>
 
 ---
