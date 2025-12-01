@@ -23,11 +23,9 @@ LinkedIn:
 
 ## Skills & GitHub Overview
 
-<div style="width:100%; display:flex; flex-direction:column; gap:20px;">
-
-  <div style="display:flex; width:100%; gap:20px;">
-    <!-- Skills Column -->
-    <div style="flex:1; min-width:200px;">
+<table style="width:100%;">
+  <tr>
+    <td style="vertical-align:top; width:50%; padding-right:20px;">
       <b>Skills</b><br><br>
       <b>Programming Languages</b><br>
       - Python<br>
@@ -44,26 +42,23 @@ LinkedIn:
       <b>Databases</b><br>
       - MySQL<br>
       - MongoDB
-    </div>
-
-    <!-- GitHub Overview Column -->
-    <div style="flex:2; min-width:300px;">
+    </td>
+    <td style="vertical-align:top; width:50%; padding-left:20px;">
       <b>GitHub Overview</b><br><br>
       <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" style="width:100%;" />
       <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" style="width:100%;" /><br><br>
       <b>Languages</b><br>
       <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" style="width:100%;" />
       <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" style="width:100%;" />
-    </div>
-  </div>
-
-  <!-- GitHub Streak Full Width -->
-  <div style="width:100%;">
-    <b>GitHub Streak</b><br><br>
-    <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent&hide_border=true" style="width:100%;" />
-  </div>
-
-</div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="vertical-align:top; padding-top:20px;">
+      <b>GitHub Streak</b><br><br>
+      <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent&hide_border=true" style="width:100%;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
