@@ -25,7 +25,7 @@ LinkedIn:
 ## Skills & GitHub Overview
 
 | Skills | GitHub Overview |
-|--------|----------------|
+|--------|-----------------------------------|
 | **Programming Languages**<br>- Python<br>- Java<br>- SQL<br>- JavaScript<br><br>**Tools & Technologies**<br>- Git & GitHub<br>- Linux / Bash<br>- Docker<br>- Pandas, NumPy, Matplotlib<br>- Spring Boot<br>- Jupyter<br><br>**Databases**<br>- MySQL<br>- MongoDB | <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" /><br><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" /> |
 
 | GitHub Streak | Roadmap |
