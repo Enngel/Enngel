@@ -21,6 +21,22 @@ LinkedIn:
 
 ---
 
+---
+
+## GitHub Overview & Languages
+
+<p align="center">
+  <!-- Overview images -->
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="400" /> 
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" width="400" />  
+  &nbsp;&nbsp;&nbsp;
+  <!-- Languages images -->
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="400" /> 
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" width="400" />
+</p>
+
+---
+
 ## Skills
 
 <table>
@@ -51,21 +67,7 @@ LinkedIn:
   </tr>
 </table>
 
----
 
-## GitHub Overview & Languages
-
-<p align="center">
-  <!-- Overview images -->
-  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="400" /> 
-  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" width="400" />  
-  &nbsp;&nbsp;&nbsp;
-  <!-- Languages images -->
-  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="400" /> 
-  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" width="400" />
-</p>
-
----
 <!--
 ## Featured Projects
 
