@@ -46,14 +46,12 @@
     <td>
       - Git & GitHub<br>
       - Linux / Bash<br>
-      - Docker<br>
       - Pandas, NumPy, Matplotlib<br>
       - Spring Boot<br>
       - Jupyter
     </td>
     <td>
       - MySQL<br>
-      - MongoDB
     </td>
       <td>
       - LinkedIn:  
