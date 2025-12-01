@@ -16,15 +16,18 @@
         <h1>Hi, I’m Engel Nieves</h1>
         <h2>DAW Student | Aspiring Data Scientist | Java–Python Developer</h2>
     </header>
-    <div class="StatsContainer">
-        <div class="GeneralStats">
-    ![](https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-    ![](https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only)
-        </div>
-        <div class="LanguageStats">
-    ![](https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-    ![](https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only)
-        </div>
+  <div class="StatsContainer">
+    <div class="GeneralStats">
+        <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+        <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only">
+    </div>
+
+    <div class="LanguageStats">
+        <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+        <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only">
+    </div>
+</div>
+
 </div>
 </body>
 </html>
