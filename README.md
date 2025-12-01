@@ -21,53 +21,55 @@ LinkedIn:
 
 ---
 
-## Skills & GitHub Stats
+## Skills
+
+**Programming Languages**  
+- Python  
+- Java  
+- SQL  
+- JavaScript  
+
+**Tools & Technologies**  
+- Git & GitHub  
+- Linux / Bash  
+- Docker  
+- Pandas, NumPy, Matplotlib  
+- Spring Boot  
+- Jupyter  
+
+**Databases**  
+- MySQL  
+- MongoDB  
+
+---
+
+## GitHub Overview & Languages
 
 <table style="width:100%;">
   <tr>
-    <!-- Skills Column -->
-    <td style="vertical-align:top; width:33%; padding-right:10px;">
-      <b>Skills</b><br><br>
-      <b>Programming Languages</b><br>
-      - Python<br>
-      - Java<br>
-      - SQL<br>
-      - JavaScript<br><br>
-      <b>Tools & Technologies</b><br>
-      - Git & GitHub<br>
-      - Linux / Bash<br>
-      - Docker<br>
-      - Pandas, NumPy, Matplotlib<br>
-      - Spring Boot<br>
-      - Jupyter<br><br>
-      <b>Databases</b><br>
-      - MySQL<br>
-      - MongoDB
-    </td>
-
-    <!-- GitHub Overview Column -->
-    <td style="vertical-align:top; width:33%; padding:0 10px;">
-      <b>GitHub Overview</b><br><br>
-      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" style="width:100%;" />
-      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" style="width:100%;" />
+    <!-- Overview Column -->
+    <td style="width:50%; text-align:center; vertical-align:top; padding-right:10px;">
+      <b>Overview</b><br><br>
+      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" style="width:90%; max-width:400px;" />
+      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" style="width:90%; max-width:400px;" />
     </td>
 
     <!-- Languages Column -->
-    <td style="vertical-align:top; width:33%; padding-left:10px;">
+    <td style="width:50%; text-align:center; vertical-align:top; padding-left:10px;">
       <b>Languages</b><br><br>
-      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" style="width:100%;" />
-      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" style="width:100%;" />
-    </td>
-  </tr>
-
-  <!-- GitHub Streak Row -->
-  <tr>
-    <td colspan="3" style="vertical-align:top; text-align:center; padding-top:20px;">
-      <b>GitHub Streak</b><br><br>
-      <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent&hide_border=true" style="width:50%;" />
+      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" style="width:90%; max-width:400px;" />
+      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" style="width:90%; max-width:400px;" />
     </td>
   </tr>
 </table>
+
+---
+
+## GitHub Streak
+
+<div style="text-align:center;">
+  <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent&hide_border=true" style="width:300px; max-width:80%;" />
+</div>
 
 ---
 
