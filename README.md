@@ -23,23 +23,29 @@ LinkedIn:
 
 ## Skills
 
-**Programming Languages**  
-- Python  
-- Java  
-- SQL  
-- JavaScript  
+<table>
+  <tr>
+    <td>
+      <b>Programming Languages</b><br>
+      - Python<br>
+      - Java<br>
+      - SQL<br>
+      - JavaScript<br><br>
 
-**Tools & Technologies**  
-- Git & GitHub  
-- Linux / Bash  
-- Docker  
-- Pandas, NumPy, Matplotlib  
-- Spring Boot  
-- Jupyter  
+      <b>Tools & Technologies</b><br>
+      - Git & GitHub<br>
+      - Linux / Bash<br>
+      - Docker<br>
+      - Pandas, NumPy, Matplotlib<br>
+      - Spring Boot<br>
+      - Jupyter<br><br>
 
-**Databases**  
-- MySQL  
-- MongoDB  
+      <b>Databases</b><br>
+      - MySQL<br>
+      - MongoDB
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -47,12 +53,12 @@ LinkedIn:
 
 <p align="center">
   <!-- Overview images -->
-  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="300" /> 
-  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" width="300" />  
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="400" /> 
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" width="400" />  
   &nbsp;&nbsp;&nbsp; <!-- small space between columns -->
   <!-- Languages images -->
-  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="300" /> 
-  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" width="300" />
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="400" /> 
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" width="400" />
 </p>
 
 ---
@@ -60,7 +66,7 @@ LinkedIn:
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent&hide_border=true" width="250" />
+  <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent&hide_border=true" width="400" />
 </p>
 
 ---
