@@ -24,13 +24,42 @@ LinkedIn:
 
 ## Skills & GitHub Overview
 
-| Skills | GitHub Overview |
-|--------|----------------|
-| **Programming Languages**<br>- Python<br>- Java<br>- SQL<br>- JavaScript<br><br>**Tools & Technologies**<br>- Git & GitHub<br>- Linux / Bash<br>- Docker<br>- Pandas, NumPy, Matplotlib<br>- Spring Boot<br>- Jupyter<br><br>**Databases**<br>- MySQL<br>- MongoDB | **Overview**<br><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg?width=1000&height=2500#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg?width=800&height=250#gh-light-mode-only" /><br><br>**Languages**<br><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg?width=800&height=220#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg?width=800&height=220#gh-light-mode-only" /> |
-
-| GitHub Streak | Roadmap |
-|---------------|---------|
-| <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent&hide_border=true&date_format=j%20M%20Y" /> | - [ ] Finish Java projects<br>- [ ] Practice Machine Learning<br>- [ ] Publish portfolio<br>- [ ] Update CV & LinkedIn<br>- [ ] Explore DB integration (MySQL / MongoDB)<br>- [ ] Add interactive sections to README |
+<table width="100%">
+  <tr>
+    <td width="40%" valign="top">
+      <b>Skills</b><br><br>
+      <b>Programming Languages</b><br>
+      - Python<br>
+      - Java<br>
+      - SQL<br>
+      - JavaScript<br><br>
+      <b>Tools & Technologies</b><br>
+      - Git & GitHub<br>
+      - Linux / Bash<br>
+      - Docker<br>
+      - Pandas, NumPy, Matplotlib<br>
+      - Spring Boot<br>
+      - Jupyter<br><br>
+      <b>Databases</b><br>
+      - MySQL<br>
+      - MongoDB
+    </td>
+    <td width="60%" valign="top">
+      <b>GitHub Overview</b><br><br>
+      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="100%" />
+      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" width="100%" /><br><br>
+      <b>Languages</b><br>
+      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="100%" />
+      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <b>GitHub Streak</b><br><br>
+      <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
