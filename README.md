@@ -23,7 +23,7 @@ LinkedIn:
 
 ## Skills & GitHub Overview
 
-<table style="width:100%;">
+<table style="width:200%;">
   <tr>
     <td style="vertical-align:top; width:100%; padding-right:20px;">
       <b>Skills</b><br><br>
