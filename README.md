@@ -13,10 +13,6 @@
 ---
 <!-- Portfolio: -->
 
----
-
----
-
 ## GitHub Overview & Languages
 
 <p align="center">
@@ -60,8 +56,7 @@
       - MongoDB
     </td>
       <td>
-      - MySQL<br>
-      - MongoDB
+      - LinkedIn:  
     </td>
   </tr>
 </table>
