@@ -24,9 +24,52 @@ LinkedIn:
 
 ## Skills & GitHub Overview
 
-| Skills | GitHub Overview | Streak | Activity | Achievements |
-|--------|----------------|--------|---------|-------------|
-| **Programming Languages**<br>- Python<br>- Java<br>- SQL<br>- JavaScript<br><br>**Tools & Technologies**<br>- Git & GitHub<br>- Linux / Bash<br>- Docker<br>- Pandas, NumPy, Matplotlib<br>- Spring Boot<br>- Jupyter<br><br>**Databases**<br>- MySQL<br>- MongoDB | <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" /><br><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" /> | <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enngel&theme=github-light" /> | <img src="https://github-profile-trophy.vercel.app/?username=Enngel&theme=flat&margin-w=10" /> |
+| Skills | GitHub Overview | Streak |
+|--------|----------------|--------|
+| **Programming Languages**<br>- Python<br>- Java<br>- SQL<br>- JavaScript<br><br>**Tools & Technologies**<br>- Git & GitHub<br>- Linux / Bash<br>- Docker<br>- Pandas, NumPy, Matplotlib<br>- Spring Boot<br>- Jupyter<br><br>**Databases**<br>- MySQL<br>- MongoDB | <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" /><br><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" /> | <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent" /> |
+
+---
+
+<!--
+## Featured Projects
+
+### Project Title
+
+Brief description of the project.
+
+Technologies: Python / Java / SQL
+
+Repo: https://github.com/Enngel/
+-->
+# Hi, I’m Engel Nieves  
+
+### DAW Student · Aspiring Data Scientist · Java–Python Developer
+
+---
+
+## About Me
+
+- Web Application Development (DAW) student
+- Interested in Data Science, Python, and Java
+- Building projects for my portfolio
+
+---
+
+## Contact & Profiles
+
+GitHub: https://github.com/Enngel  
+
+LinkedIn:  
+
+<!-- Portfolio: -->  
+
+---
+
+## Skills & GitHub Overview
+
+| Skills | GitHub Overview | Streak |
+|--------|----------------|--------|
+| **Programming Languages**<br>- Python<br>- Java<br>- SQL<br>- JavaScript<br><br>**Tools & Technologies**<br>- Git & GitHub<br>- Linux / Bash<br>- Docker<br>- Pandas, NumPy, Matplotlib<br>- Spring Boot<br>- Jupyter<br><br>**Databases**<br>- MySQL<br>- MongoDB | <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" /><br><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" /> | <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent" /> |
 
 ---
 
