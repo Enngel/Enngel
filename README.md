@@ -11,12 +11,6 @@
 - Building projects for my portfolio
 
 ---
-
-## Contact & Profiles
-
-GitHub: https://github.com/Enngel  
-LinkedIn:  
-
 <!-- Portfolio: -->
 
 ---
@@ -44,6 +38,7 @@ LinkedIn:
     <th>Programming Languages</th>
     <th>Tools & Technologies</th>
     <th>Databases</th>
+    <th>Contact & Profiles</th>
   </tr>
   <tr>
     <td>
@@ -61,6 +56,10 @@ LinkedIn:
       - Jupyter
     </td>
     <td>
+      - MySQL<br>
+      - MongoDB
+    </td>
+      <td>
       - MySQL<br>
       - MongoDB
     </td>
