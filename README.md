@@ -25,22 +25,26 @@ LinkedIn:
 
 <table>
   <tr>
+    <th>Programming Languages</th>
+    <th>Tools & Technologies</th>
+    <th>Databases</th>
+  </tr>
+  <tr>
     <td>
-      <b>Programming Languages</b><br>
       - Python<br>
       - Java<br>
       - SQL<br>
-      - JavaScript<br><br>
-
-      <b>Tools & Technologies</b><br>
+      - JavaScript
+    </td>
+    <td>
       - Git & GitHub<br>
       - Linux / Bash<br>
       - Docker<br>
       - Pandas, NumPy, Matplotlib<br>
       - Spring Boot<br>
-      - Jupyter<br><br>
-
-      <b>Databases</b><br>
+      - Jupyter
+    </td>
+    <td>
       - MySQL<br>
       - MongoDB
     </td>
@@ -55,12 +59,21 @@ LinkedIn:
   <!-- Overview images -->
   <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="400" /> 
   <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" width="400" />  
-  &nbsp;&nbsp;&nbsp; <!-- small space between columns -->
+  &nbsp;&nbsp;&nbsp;
   <!-- Languages images -->
   <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="400" /> 
   <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" width="400" />
 </p>
 
+---
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent&hide_border=true" width="400" />
+</p>
+
+---
 
 <!--
 ## Featured Projects
