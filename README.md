@@ -66,15 +66,6 @@ LinkedIn:
 </p>
 
 ---
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent&hide_border=true" width="400" />
-</p>
-
----
-
 <!--
 ## Featured Projects
 
