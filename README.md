@@ -45,31 +45,23 @@ LinkedIn:
 
 ## GitHub Overview & Languages
 
-<table style="width:100%;">
-  <tr>
-    <!-- Overview Column -->
-    <td style="width:50%; text-align:center; vertical-align:top; padding-right:10px;">
-      <b>Overview</b><br><br>
-      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" style="width:90%; max-width:400px;" />
-      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" style="width:90%; max-width:400px;" />
-    </td>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="350" /> 
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" width="350" />
+</p>
 
-    <!-- Languages Column -->
-    <td style="width:50%; text-align:center; vertical-align:top; padding-left:10px;">
-      <b>Languages</b><br><br>
-      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" style="width:90%; max-width:400px;" />
-      <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" style="width:90%; max-width:400px;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="350" /> 
+  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" width="350" />
+</p>
 
 ---
 
 ## GitHub Streak
 
-<div style="text-align:center;">
-  <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent&hide_border=true" style="width:300px; max-width:80%;" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent&hide_border=true" width="250" />
+</p>
 
 ---
 
