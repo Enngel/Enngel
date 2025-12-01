@@ -61,15 +61,6 @@ LinkedIn:
   <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" width="400" />
 </p>
 
----
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Enngel&theme=transparent&hide_border=true" width="400" />
-</p>
-
----
 
 <!--
 ## Featured Projects
