@@ -20,9 +20,9 @@
   <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="400" /> 
   <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/overview.svg#gh-light-mode-only" width="400" />  
   &nbsp;&nbsp;&nbsp;
-  <!-- Languages images -->
-  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="400" /> 
-  <img src="https://raw.githubusercontent.com/Enngel/github-stats/master/generated/languages.svg#gh-light-mode-only" width="400" />
+  <!-- Languages by LINES OF CODE -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enngel&layout=compact&langs_count=10&size_weight=0&count_weight=1&card_width=400#gh-dark-mode-only" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enngel&layout=compact&langs_count=10&size_weight=0&count_weight=1&card_width=400#gh-light-mode-only" width="400"/>
 </p>
 
 ---
@@ -53,12 +53,11 @@
     <td>
       - MySQL<br>
     </td>
-      <td>
+    <td>
       - LinkedIn:  
     </td>
   </tr>
 </table>
-
 
 <!--
 ## Featured Projects
